@@ -42,13 +42,3 @@ function App() {
 
 //6)Exporta
 export default App;
-
-/*
-
-Desafios?
-
-1) Retornar o funcionário com seus cargos?
-2) Retornar o funcionário com seus salario?
-3) Retornar o funcionário com seus cargos e salarios?
-
-*/
